@@ -68,10 +68,14 @@ We will also be happy to show you our latest work in person - feel free to [book
 Before making or not making a decision, do as we did:
 
 🔫 Don't take things too seriously
+
 🤸🏻‍♀️ Lower your shoulders
+
 🌬️ Breathe slowly and deeply
+
 🦎 Listen to [this album on Spotify](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb?si=Th-9JIs1SouCctvIGvsqYg)
+
 🎲 Do as you know and let it be
 
-
+___
 2024 — Creatives are the new athletes. 
