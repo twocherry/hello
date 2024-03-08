@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](assets/hello-logo.png)
+![Banner](assets/hc.png)
 
 
 **[hellohello](https://www.instagram.com/hellohellocreative/)** is a creative agency focused on ideas, brands, vibes and experiences, based on people, sincerity and simplicity. 
