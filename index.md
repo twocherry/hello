@@ -5,22 +5,24 @@ layout: default
 ![Banner](assets/hc.png)
 
 
+🇺🇦
+
 👋🏻 **[hellohello](https://www.instagram.com/hellohellocreative/)** is a creative agency focused on ideas, brands, vibes and experiences, based on people, sincerity and simplicity. 
 
-🏄🏻‍♂️ We are a group of people united by core values and a diverse vision. 
+We are a group of people united by core values and a diverse vision. 
 We were made for people and their businesses. 
 
 
 
 ## Work
 
-🔮 Our work includes projects in various communication areas.
+Our work includes projects in various communication areas.
 Our capabilities include, but are not limited to:
 
 
 
 * `Identity and Branding`            : How your brand should look
-* `Strategy`            : What to say about yourself
+* `Strategy`            : Your ideological core
 * `PR`            : Introduce yourself
 * `Campaigns`            : Spread your vibe
 * `Experience`            : Make people feel
@@ -46,3 +48,28 @@ Our capabilities include, but are not limited to:
 > Diversity of opinions is priceless
 
 > Simplicity + sincerity is a new luxury
+
+
+## Portfolio
+
+This is the technical version of our website, so you can see the agency's work on our [Instagram page](https://www.instagram.com/hellohellocreative/). We will also be happy to show you our latest work in person - feel free to [book a call](hello@hellohello.cc)
+
+🏄🏻‍♂️
+
+## Contact us
+
+🔋 [Instagram](https://www.instagram.com/hellohellocreative/)
+💎 hello@hellohello.cc
+
+## More to love
+
+Before making or not making a decision, do as we did:
+
+🔫 Don't take things too seriously
+🤸🏻‍♀️ Lower your shoulders
+🌬️ Breathe slowly and deeply
+🦎 Listen to [this album on Spotify](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb?si=Th-9JIs1SouCctvIGvsqYg)
+🎲 Do as you know and let it be
+
+
+2024 — Creatives are the new athletes. 
