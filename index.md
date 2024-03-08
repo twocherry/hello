@@ -15,6 +15,7 @@ We were made for people and their businesses.
 
 
 ## Work
+___
 
 Our work includes projects in various communication areas.
 Our capabilities include, but are not limited to:
@@ -36,6 +37,7 @@ Our capabilities include, but are not limited to:
 
 
 ## What we stand for
+___
 
 > Any project is a cooperation and involvement of the client and the agency
 
@@ -51,6 +53,7 @@ Our capabilities include, but are not limited to:
 
 
 ## Portfolio
+___
 
 This is the technical version of our website, so you can see the agency's work on our [Instagram page](https://www.instagram.com/hellohellocreative/). 
 
@@ -59,11 +62,14 @@ We will also be happy to show you our latest work in person - feel free to [book
 🏄🏻‍♂️
 
 ## Contact us
+___
 
 🔋 [Instagram](https://www.instagram.com/hellohellocreative/)
-💎 hello@hellohello.cc
+
+💎 [hello@hellohello.cc]
 
 ## More to love
+___
 
 Before making or not making a decision, do as we did:
 
@@ -78,4 +84,5 @@ Before making or not making a decision, do as we did:
 🎲 Do as you know and let it be
 
 ___
-2024 — Creatives are the new athletes. 
+
+###### 2024 — Creatives are the new athletes. 
