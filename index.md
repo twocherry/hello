@@ -5,12 +5,16 @@ layout: default
 ![Banner](assets/hc.png)
 
 
-🇺🇦
+
 
 👋🏻 **[hellohello](https://www.instagram.com/hellohellocreative/)** is a creative agency focused on ideas, brands, vibes and experiences, based on people, sincerity and simplicity. 
 
 We are a group of people united by core values and a diverse vision. 
 We were made for people and their businesses. 
+
+🇺🇦
+
+
 
 ___
 
