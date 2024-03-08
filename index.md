@@ -5,22 +5,22 @@ layout: default
 ![Banner](assets/hc.png)
 
 
-**[hellohello](https://www.instagram.com/hellohellocreative/)** is a creative agency focused on ideas, brands, vibes and experiences, based on people, sincerity and simplicity. 
+👋🏻 **[hellohello](https://www.instagram.com/hellohellocreative/)** is a creative agency focused on ideas, brands, vibes and experiences, based on people, sincerity and simplicity. 
 
-We are a group of people united by core values and a diverse vision. 
+🏄🏻‍♂️ We are a group of people united by core values and a diverse vision. 
 We were made for people and their businesses. 
 
 
 
 ## Work
 
-Our work includes projects in various communication areas.
+🔮 Our work includes projects in various communication areas.
 Our capabilities include, but are not limited to:
 
 
 
 * `Identity and Branding`            : How your brand should look
-* `Brand or Communication Strategy`            : What to say about yourself
+* `Strategy`            : What to say about yourself
 * `PR`            : Introduce yourself
 * `Campaigns`            : Spread your vibe
 * `Experience`            : Make people feel
@@ -33,24 +33,11 @@ Our capabilities include, but are not limited to:
 * `Website Development`            : Make people interact
 
 
+## What we stand for
 
-## Example tag usage
-
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
-
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
-
-## Licence and Author Information
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+> Any project is a cooperation and involvement of the client and the agency
+> A brand is an ideological evolution of the owner's values and vision
+> Simple is the most difficult thing to do
+> Working *with*, not *at*, gives the best result
+> Diversity of opinions is priceless
+> Simplicity + sincerity is a new luxury
