@@ -52,7 +52,9 @@ Our capabilities include, but are not limited to:
 
 ## Portfolio
 
-This is the technical version of our website, so you can see the agency's work on our [Instagram page](https://www.instagram.com/hellohellocreative/). We will also be happy to show you our latest work in person - feel free to [book a call](hello@hellohello.cc)
+This is the technical version of our website, so you can see the agency's work on our [Instagram page](https://www.instagram.com/hellohellocreative/). 
+
+We will also be happy to show you our latest work in person - feel free to [book a call](hello@hellohello.cc)
 
 🏄🏻‍♂️
 
