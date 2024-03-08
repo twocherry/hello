@@ -36,8 +36,13 @@ Our capabilities include, but are not limited to:
 ## What we stand for
 
 > Any project is a cooperation and involvement of the client and the agency
+
 > A brand is an ideological evolution of the owner's values and vision
+
 > Simple is the most difficult thing to do
+
 > Working *with*, not *at*, gives the best result
+
 > Diversity of opinions is priceless
+
 > Simplicity + sincerity is a new luxury
