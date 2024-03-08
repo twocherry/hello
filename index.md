@@ -54,7 +54,7 @@ ___
 
 ___
 
-## Portfolio
+## Portfolio and Contacts
 
 
 This is the technical version of our website, so you can see the agency's work on our [Instagram page](https://www.instagram.com/hellohellocreative/). 
@@ -65,14 +65,6 @@ We will also be happy to show you our latest work in person - feel free to [book
 
 ___
 
-## Contact us
-
-
-🔋 [Instagram](https://www.instagram.com/hellohellocreative/)
-
-💎 [hello@hellohello.cc](hello@hellohello.cc)
-
-___
 
 ## More to love
 
