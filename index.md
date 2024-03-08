@@ -90,4 +90,3 @@ Before making or not making a decision, do as we did:
 
 ___
 
-2024 — Creatives are the new athletes. 
