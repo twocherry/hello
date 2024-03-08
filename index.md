@@ -12,10 +12,10 @@ layout: default
 We are a group of people united by core values and a diverse vision. 
 We were made for people and their businesses. 
 
-
+___
 
 ## Work
-___
+
 
 Our work includes projects in various communication areas.
 Our capabilities include, but are not limited to:
@@ -35,9 +35,10 @@ Our capabilities include, but are not limited to:
 * `Photo and Video Production`            : Create your vision
 * `Website Development`            : Make people interact
 
+___
 
 ## What we stand for
-___
+
 
 > Any project is a cooperation and involvement of the client and the agency
 
@@ -51,9 +52,10 @@ ___
 
 > Simplicity + sincerity is a new luxury
 
+___
 
 ## Portfolio
-___
+
 
 This is the technical version of our website, so you can see the agency's work on our [Instagram page](https://www.instagram.com/hellohellocreative/). 
 
@@ -61,15 +63,18 @@ We will also be happy to show you our latest work in person - feel free to [book
 
 🏄🏻‍♂️
 
-## Contact us
 ___
+
+## Contact us
+
 
 🔋 [Instagram](https://www.instagram.com/hellohellocreative/)
 
-💎 [hello@hellohello.cc]
+💎 [hello@hellohello.cc](hello@hellohello.cc)
+
+___
 
 ## More to love
-___
 
 Before making or not making a decision, do as we did:
 
@@ -85,4 +90,4 @@ Before making or not making a decision, do as we did:
 
 ___
 
-###### 2024 — Creatives are the new athletes. 
+2024 — Creatives are the new athletes. 
